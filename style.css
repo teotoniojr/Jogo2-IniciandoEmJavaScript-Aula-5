@@ -5,3 +5,7 @@ html, body {
 canvas {
   display: block;
 }
+
+.caixa {
+  background-color: black;
+}
